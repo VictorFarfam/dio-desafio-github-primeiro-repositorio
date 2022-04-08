@@ -1,0 +1,2 @@
+git status - confere status da pasta
+git add . - adiciona todas as alterações ao git 
