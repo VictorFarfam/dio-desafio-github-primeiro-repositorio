@@ -1,2 +1,4 @@
 git status - confere status da pasta
 git add . - adiciona todas as alterações ao git 
+git commit - para commitar localmente os arquivos
+git push (origin main) - para mandar os arquivos locais para o servidor
